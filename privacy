@@ -83,7 +83,6 @@ This data is protected by iOS system security mechanisms and guarded by your dev
 <p>The investment data you enter is used only for the following purposes on your device:</p>
 <ul>
   <li>Investment calculations and scenario demonstrations</li>
-  <li>Displaying portfolio tracking results and charts</li>
   <li>Supporting planning tools</li>
   <li>Generating historical and analytical views</li>
 </ul>
@@ -154,7 +153,6 @@ We are committed to maintaining the app’s independence and privacy-first appro
 <p>您输入的投资数据仅用于以下目的（仅在您的设备上）：</p>
 <ul>
   <li>投资计算与情景演示</li>
-  <li>展示持仓跟踪结果和图表</li>
   <li>辅助投资规划工具</li>
   <li>生成历史与分析视图</li>
 </ul>
